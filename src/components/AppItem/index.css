@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.li {
+  list-style-type: none;
+}
+.social-icon {
+  width: 120px;
+  height: 120px;
+}
+.social-card {
+  background-color: #ffffff;
+  width: 250px;
+  height: 250px;
+  margin: 40px;
+  text-align: center;
+  padding-top: 40px;
+  border-radius: 15px;
+}
+.app-name {
+  color: #1e293b;
+  font-family: Bree Serif;
+  font-size: 20px;
+}
